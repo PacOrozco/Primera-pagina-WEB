@@ -3,4 +3,4 @@
 # XUUMY
 Pagina web creada para hacer una tienda online de artesanias hechas por mi familia, es de gabanes y chalecos hechos en telar de cintura
 
-**Puedes visitarla en el siguiente enlace**
+**Puedes visitarla en el siguiente enlace: https://pacorozco.github.io/Primera-pagina-WEB.github.io/**
